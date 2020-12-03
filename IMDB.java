@@ -1,4 +1,4 @@
-/*package hadoop01;
+package hadoop01;
 
 import java.io.*;
 import java.util.*;
@@ -326,4 +326,4 @@ public class IMDB {
 	}
 
 
-}*/
+}
