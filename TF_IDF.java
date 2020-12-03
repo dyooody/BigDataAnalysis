@@ -1,4 +1,4 @@
-/*import java.io.*;
+import java.io.*;
 import java.util.*;
 import org.apache.hadoop.conf.*;
 import org.apache.hadoop.fs.*;
@@ -290,4 +290,4 @@ public class TF_IDF{
 
 
 
-}*/
+}
