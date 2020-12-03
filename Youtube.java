@@ -1,4 +1,4 @@
-/*package hadoop01;
+package hadoop01;
 
 public class Youtube {
 
@@ -203,4 +203,4 @@ public class Youtube {
 	
 	}
 
-}*/
+}
